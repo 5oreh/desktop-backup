@@ -84,6 +84,12 @@ Siehe [CHANGELOG.md](CHANGELOG.md). Derzeitige Version: **2.5**.
 - Python 3, PyGObject (`gi`), Cairo
 - Empfohlen: `xdotool` (für die automatische Desktop-Aktualisierung; andernfalls genügt F5 auf dem Desktop)
 
----
+## License
 
-*Lizenz: keine – das Skript wurde für den privaten Gebrauch geschrieben.*
+Dieses Projekt ist unter der **GNU General Public License Version 3.0 oder einer späteren Version (GPL-3.0-or-later)** lizenziert.
+
+Du darfst diese Software gemäß den Bedingungen der Lizenz frei verwenden, untersuchen, verändern und weiterverbreiten. Wenn du diese Software oder veränderte Versionen davon weiterverbreitest, musst du die Bedingungen der Lizenz **GPL-3.0-or-later** einhalten. Dazu gehört auch, den entsprechenden Quellcode zugänglich zu machen.
+
+Den vollständigen Lizenztext findest du in der Datei LICENSE.md.
+
+Copyright (c) 2026 - 5oreh
