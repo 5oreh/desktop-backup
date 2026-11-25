@@ -16,6 +16,10 @@ Das Programm ist eine kleine GTK-3-Anwendung: Es liest die Symbolpositionen des 
 - **Nur native GTK-Dialoge:** Dateiauswahl, Meldungen und Eingabedialoge im Systemdesign
 - Kompatibilität der Konfigurationsdatei mit Programmversionen ≥ 1.x (automatische Migration beim Start)
 
+## Abbildung
+
+![Abbildung](images/desktop-symbolpositionen.png)
+
 ## Installation
 
 Unter Linux Mint 22.3 ist alles Notwendige vorinstalliert, Sichtprüfung empfohlen:
